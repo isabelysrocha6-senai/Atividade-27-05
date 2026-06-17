@@ -1,0 +1,17 @@
+C:\Users\491339624\Documents\Atividade-27-05\FakeESP32\bin\Debug\net8.0\FakeESP32.exe
+C:\Users\491339624\Documents\Atividade-27-05\FakeESP32\bin\Debug\net8.0\FakeESP32.deps.json
+C:\Users\491339624\Documents\Atividade-27-05\FakeESP32\bin\Debug\net8.0\FakeESP32.runtimeconfig.json
+C:\Users\491339624\Documents\Atividade-27-05\FakeESP32\bin\Debug\net8.0\FakeESP32.dll
+C:\Users\491339624\Documents\Atividade-27-05\FakeESP32\bin\Debug\net8.0\FakeESP32.pdb
+C:\Users\491339624\Documents\Atividade-27-05\FakeESP32\bin\Debug\net8.0\MQTTnet.dll
+C:\Users\491339624\Documents\Atividade-27-05\FakeESP32\obj\Debug\net8.0\FakeESP32.csproj.AssemblyReference.cache
+C:\Users\491339624\Documents\Atividade-27-05\FakeESP32\obj\Debug\net8.0\FakeESP32.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\491339624\Documents\Atividade-27-05\FakeESP32\obj\Debug\net8.0\FakeESP32.AssemblyInfoInputs.cache
+C:\Users\491339624\Documents\Atividade-27-05\FakeESP32\obj\Debug\net8.0\FakeESP32.AssemblyInfo.cs
+C:\Users\491339624\Documents\Atividade-27-05\FakeESP32\obj\Debug\net8.0\FakeESP32.csproj.CoreCompileInputs.cache
+C:\Users\491339624\Documents\Atividade-27-05\FakeESP32\obj\Debug\net8.0\FakeESP32.csproj.Up2Date
+C:\Users\491339624\Documents\Atividade-27-05\FakeESP32\obj\Debug\net8.0\FakeESP32.dll
+C:\Users\491339624\Documents\Atividade-27-05\FakeESP32\obj\Debug\net8.0\refint\FakeESP32.dll
+C:\Users\491339624\Documents\Atividade-27-05\FakeESP32\obj\Debug\net8.0\FakeESP32.pdb
+C:\Users\491339624\Documents\Atividade-27-05\FakeESP32\obj\Debug\net8.0\FakeESP32.genruntimeconfig.cache
+C:\Users\491339624\Documents\Atividade-27-05\FakeESP32\obj\Debug\net8.0\ref\FakeESP32.dll
